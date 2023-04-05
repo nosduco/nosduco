@@ -17,5 +17,5 @@ including Go and Rust.
 
 😄 My pronouns are: he/him
 
-📫 If you want to reach me, I'd suggest either [Email](mailto:nosduco@gmail.com)
-or [Discord](https://discord.com/users/251417004194398211)
+📫 If you want to reach me, I'd suggest either [Email](mailto:nosduco@gmail.com),
+[Matrix](https://matrix.to/#/@nosduco:matrix.org), or [Discord](https://discord.com/users/251417004194398211)
